@@ -2,7 +2,7 @@
   "name": "Portfolio-React",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kvsaimadhav.github.io/Portfolio-React-2021/",
+  "homepage": "https://kvsaimadhav.github.io/Portfolio-React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -17,9 +17,9 @@
     "react-scripts": "1.0.7"
   },
   "scripts": {
-    "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
