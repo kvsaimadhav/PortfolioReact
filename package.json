@@ -2,7 +2,7 @@
   "name": "Portfolio-React",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kvsaimadhav.github.io/Portfolio-React",
+  "homepage": "http://kvsaimadhav.github.io/Portfolio-React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
