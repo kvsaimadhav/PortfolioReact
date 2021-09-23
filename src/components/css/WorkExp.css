@@ -1,0 +1,32 @@
+.WorkExp{
+	background: #f7f7f7;
+}
+.WorkExp .content{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.WorkExp .content .WorkExpBx{
+	max-width: clac(50% - 40px);
+	padding: 60px 40px;
+	margin: 20px;
+	background: #2196f3;
+}
+.WorkExp .content .WorkExpBx p{
+	color: #fff;
+	font-style: italic;
+	font-size: 16px;
+	font-weight: 300;
+}
+.WorkExp .content .WorkExpBx h3{
+	margin-top: 40px;
+	text-align: end;
+	color: #fff;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 1em;
+}
+.WorkExp .content .WorkExpBx h3 span{
+	font-size: 14px;
+	font-weight: 400;
+}
