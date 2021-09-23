@@ -1,5 +1,5 @@
 {
-  "homepage": "http://kvsaimadhav.github.io/Portfolio-React",
+  "homepage": "http://kvsaimadhav.github.io/Portfolio-React-2021",
   "name": "Portfolio-React",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,7 @@
     "web-vitals": "^1.1.2"
   },
   "devDependencies": {
-    "main": "^1.0.0",
+    "gh-pages": "^1.0.0",
     "react-scripts": "1.0.7"
   },
   "scripts": {
@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "main -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
