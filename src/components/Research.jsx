@@ -25,12 +25,12 @@ function Research(){
             			<p>Built a website for generation of client puzzles to increase the accuracy for resolution of DDOS attack from 85 percent to 91 percent.Designed website consists of Naive-Bayes Algorithm for detecting the accuracy with 85%. Developed the application with an extra layer of security to get the DDOS prediction from the IP by 6 percent increase by eliminating the False Negative Rates.</p>
           	   </div>
           	   <div class="ResearchBx">
-            		<img src={image3}>
+            		<img src={image3}/>
             			<h2>Credit Card Fraud Detector</h2>
             			<p>Developed an algorithm for Credit Card Fraud Detection using Naïve Bayes and Random Forest approaches. The imbalanced dataset is made balanced by randomly choosing the 50-50 split of data from given fraud cases versus genuine transaction. The Naïve Bayes resulted in 90.46% accuracy for the split test data of 60%. The Random Forest resulted in 99% accuracy for the overall imbalanced dataset.</p>
           	   </div>
           	   <div class="ResearchBx">
-            		<img src={image4}"/>
+            		<img src={image4}/>
             			<h2>University Database with SQL</h2>
             			<p>Data Analysis done on University Database with technologies embedded in SQL. Used triggers, functions, and packages for analysing the university database.</p>
           	   </div>

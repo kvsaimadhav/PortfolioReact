@@ -21,7 +21,7 @@ function Documents(){
           		   <a href={Resume} target = "_blank">Resume</a>
         		</div>
         		<div class="DocumentsBx">
-          		   <img src={image2}>
+          		   <img src={image2}/>
             		   <a href={CV} target = "_blank">Cover Letter</a>
         		</div>
         	 	<div class="DocumentsBx">
