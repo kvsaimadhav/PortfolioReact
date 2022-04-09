@@ -10,15 +10,15 @@ function App() {
   return (
     <div className="App">
       <header>
-      <a href="#home" class ="logo"> Portfolio</a>
+      <a href="#home" class ="logo" target="_blank"> Portfolio</a>
       <div class="toggle" onclick = "toggleMenu();"></div>
       <ul class="menu">
-        <li><a href="#home" onclick = "toggleMenu();">Home</a></li>
-        <li><a href="#about" onclick = "toggleMenu();">About</a></li>
-        <li><a href="#research" onclick = "toggleMenu();">Research</a></li>
-        <li><a href="#documents" onclick = "toggleMenu();">Documents</a></li>
-        <li><a href="#workexp" onclick = "toggleMenu();">Work Experience</a></li>
-        <li><a href="#contact" onclick = "toggleMenu();">Contact</a></li>
+        <li><a href="#home" onclick = "toggleMenu();" target="_blank">Home</a></li>
+        <li><a href="#about" onclick = "toggleMenu();" target="_blank">About</a></li>
+        <li><a href="#research" onclick = "toggleMenu();" target="_blank">Research</a></li>
+        <li><a href="#documents" onclick = "toggleMenu();" target="_blank">Documents</a></li>
+        <li><a href="#workexp" onclick = "toggleMenu();" target="_blank">Work Experience</a></li>
+        <li><a href="#contact" onclick = "toggleMenu();" target="_blank">Contact</a></li>
       </ul>
     </header>
       <section class="banner" id = "home">
