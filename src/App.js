@@ -25,7 +25,7 @@ function App() {
         <div class="textBx">
           <h2> Hello, I'm <span> Sai Madhav.</span></h2>
           <h3> I'm a Full Stack Developer.</h3>
-          <a href="#about" class="btn">About Me</a>
+          <a href="#about" class="btn" target="_blank">About Me</a>
         </div>
       </section>
       <About></About>

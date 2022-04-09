@@ -17,11 +17,11 @@ function Documents(){
       		   </div>
       		   <div class="content">
         		<div class="DocumentsBx">
-           		   <img src={image1} alt="No Image"/>
+           		   <img src={image1}/>
           		   <a href={Resume} target = "_blank">Resume</a>
         		</div>
         		<div class="DocumentsBx">
-          		   <img src={image2} alt="No Image"/>
+          		   <img src={image2}>
             		   <a href={CV} target = "_blank">Cover Letter</a>
         		</div>
         	 	<div class="DocumentsBx">
@@ -30,7 +30,7 @@ function Documents(){
         		</div>
       		   </div>
       		   <div class = "heading">
-         		<a href="https://kvsaimadhav.github.io/Portfolio-2021/" class="btn"> View More</a>
+         		<a href="https://kvsaimadhav.github.io/Portfolio-2021/" class="btn" target="_blank"> View More</a>
       		   </div>
     		</section>
 	</div>

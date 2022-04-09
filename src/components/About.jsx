@@ -15,7 +15,7 @@ function About(){
                <p>Passionate Master's student, capable of applying industry knowledge to theoretical subjects and vice-versa. Interested in Analytics and Development. I can able to analyze and implement advanced algorithms. Value Offered: Big Data Analytics, Data Mining, Data Modelling, Analysis Tools such as SQL, Artificial Intelligence, Machine Learning.</p>
             </div>
             <div class="w50">
-               <img src={image} class="img" alt="Personal" />
+               <img src={image} class="img"/>
             </div>
          </div>
          </section>
