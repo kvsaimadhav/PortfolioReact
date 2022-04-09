@@ -7,7 +7,7 @@ function WorkExp(){
 		<section class="WorkExp" id = "workexp">
       		   <div class="heading">
         		<h2>Work Experience</h2>
-        		<p>Dedicated and efficient full stack developer with 3+ years’ experience in application layers, presentation layers, and databases. Certified in both Front-end and Back-end technologies.</p>
+        		<p>Dedicated and efficient full stack developer with 3+ years experience in application layers, presentation layers, and databases. Certified in both Front-end and Back-end technologies.</p>
       		   </div>
       		   <div class="content">
         		<div class="WorkExpBx">

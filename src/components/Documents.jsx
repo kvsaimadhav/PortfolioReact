@@ -17,20 +17,20 @@ function Documents(){
       		   </div>
       		   <div class="content">
         		<div class="DocumentsBx">
-           		   <img src={image1}/>
-          		   <a href={Resume} target = "_blank">Resume</a>
+           		   <img src={image1} alt=""/>
+          		   <a href={Resume} target = "_blank"  rel="noopener noreferrer">Resume</a>
         		</div>
         		<div class="DocumentsBx">
-          		   <img src={image2}/>
-            		   <a href={CV} target = "_blank">Cover Letter</a>
+          		   <img src={image2} alt=""/>
+            		   <a href={CV} target = "_blank"  rel="noopener noreferrer">Cover Letter</a>
         		</div>
         	 	<div class="DocumentsBx">
-          		   <img src={image3} alt="No Image"/>
-            		   <a href={AWS} target = "_blank">Certificate</a>
+          		   <img src={image3} alt=""/>
+            		   <a href={AWS} target = "_blank"  rel="noopener noreferrer">Certificate</a>
         		</div>
       		   </div>
       		   <div class = "heading">
-         		<a href="https://kvsaimadhav.github.io/Portfolio-2021/" class="btn" target="_blank"> View More</a>
+         		<a href="https://kvsaimadhav.github.io/Portfolio-2021/" class="btn" target="_blank"  rel="noopener noreferrer"> View More</a>
       		   </div>
     		</section>
 	</div>
